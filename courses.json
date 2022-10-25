@@ -1,26 +1,38 @@
 [
     {
         "id":"1",
-        "name": "HTML5"
+        "name": "HTML5",
+        "details":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive."
+
     },
     {
         "id":"2",
-        "name": "CSS"
+        "name": "CSS",
+        "details":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive."
+
     },
     {
         "id":"3",
-        "name": "BOOTSTRAP"
+        "name": "BOOTSTRAP",
+       "details":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive."
+
     },
     {
         "id":"4",
-        "name": "TAILWIEND"
+        "name": "TAILWIEND",
+        "details":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive."
+
     },
     {
         "id":"5",
-        "name": "JAVASCRIPT"
+        "name": "JAVASCRIPT",
+       "details":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive."
+
     },
     {
         "id":"6",
-        "name": " REACT"
+        "name": " REACT",
+       "details":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive."
+
     }
 ]
