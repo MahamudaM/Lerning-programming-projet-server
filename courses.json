@@ -3,10 +3,10 @@
         "id":"1",
         "name": "HTML5",
         "details":{
-            "blog":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive.",
-            "published_date":"25 April 2022"        
+            "blog":"HTML stands for HyperText Markup Language. It is a standard markup language for web page creation. It allows the creation and structure of sections, paragraphs, and links using HTML elements (the building blocks of a web page) such as tags and attributes.HTML has a lot of use cases, namely:Web development. Developers use HTML code to design how a browser displays web page elements, such as text, hyperlinks, and media files.Internet navigation. Users can easily navigate and insert links between related pages and websites as HTML is heavily used to embed hyperlinks.Web documentation. HTML makes it possible to organize and format documents, similarly to Microsoft Word.",
+            "published_date":"2 March 2022"        
            },
-           "enroll_student":"21,690 learners enrolled",
+           "enroll_student":"26,694 learners enrolled",
            "Syllabus":"syllabus: 9 lessons • 8 projects • 9 quizzes",
            "img":"./images/html.jpg",
            "complet_time":"Approx. 7 day"
@@ -15,37 +15,37 @@
         "id":"2",
         "name": "CSS",
         "details":{
-            "blog":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive.",
+            "blog":"CSS stands for Cascading Style Sheets. It is the coding language that gives a website its look and layout. Along with HTML, CSS is fundamental to web design. Without it, websites would still be plain text on white backgrounds.Before the development of CSS in 1996 by the World Wide Web Consortium (W3C), Web pages were extremely limited in both form and function. Early browsers presented a page as hypertext - plain text, images and links to other hypertext pages. There was no layout at all to speak of, merely paragraphs running across the page in a single column.CSS allowed several innovations to webpage layout, such as the ability to:Specify fonts other than the default for the browser,Specify color and size of text and links,Apply colors to backgrounds.To understand the basics of how CSS works, you must first understand a little about modern HTML. Web developers lay out pages according to the box model. A Web page is a series of boxes, each containing a discrete element. These boxes are nested, one inside another.",
             "published_date":"25 April 2022"        
            },
            "enroll_student":"21,690 learners enrolled",
-           "Syllabus":"syllabus: 11 lessons • 12 projects • 8 quizzes",
+           "Syllabus":"syllabus: 11 lessons • 8 projects • 11 quizzes",
            "img":"./images/css.jpg",
-           "complet_time":"Approx. 20 day"
+           "complet_time":"Approx. 12 day"
     },
     {
         "id":"3",
         "name": "BOOTSTRAP",
         "details":{
-            "blog":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive.",
-            "published_date":"25 April 2022"        
+        "blog":"Bootstrap the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the webBootstrap is a giant collection of handy, reusable bits of code written in HTML, CSS, and JavaScript. It’s also a frontend development framework that enables developers and designers to quickly build fully responsive websites.Essentially, Bootstrap saves you from writing lots of CSS code, giving you more time to spend on designing webpages.No more spending hours coding your own grid—Bootstrap comes with its own grid system predefined.",    
+           "published_date":"5 April 2022"        
            },
            "enroll_student":"21,690 learners enrolled",
-           "Syllabus":"syllabus: 11 lessons • 12 projects • 8 quizzes",
+           "Syllabus":"syllabus: 10 lessons • 12 projects • 10 quizzes",
            "img":"./images/bootstrap.jpg",
-           "complet_time":"Approx. 20 day"
+           "complet_time":"Approx. 7 day"
     },
     {
         "id":"4",
         "name": "TAILWIEND",
         "details":{
-            "blog":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive.",
+            "blog":"Tailwind CSS is a utility-first CSS framework designed to enable users to create applications faster and easier. You can use utility classes to control the layout, color, spacing, typography, shadows, and more to create a completely custom component design — without leaving your HTML or writing a single line of custom CSS.There are many benefits of using a CSS framework like Tailwind. Below are the major ones.ou write less custom CSS. With Tailwind, you style elements by applying pre-existing classes directly in your HTML. By using utility classes in this way, you can build custom designs without writing CSS.You keep CSS files small. Without a framework like Tailwind, you have to keep writing CSS as you add new features and components. ASa result, your CSS files continue to grow and get heavier. By using utilities like Tailwind’s flexbox and padding utilities, most styles are reusable so you rarely need to write new CSS.",
             "published_date":"25 April 2022"        
            },
            "enroll_student":"21,690 learners enrolled",
-           "Syllabus":"syllabus: 11 lessons • 12 projects • 8 quizzes",
+           "Syllabus":"syllabus: 10 lessons • 9 projects • 10 quizzes",
            "img":"./images/tailwiend.jpg",
-           "complet_time":"Approx. 20 day"
+           "complet_time":"Approx. 7 day"
     },
     {
         "id":"5",
@@ -64,12 +64,12 @@
         "id":"6",
         "name": " REACT",
         "details":{
-            "blog":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive.",
+            "blog":"React is a declarative, efficient, and flexible JavaScript library for building user interfaces.The React.js framework is an open-source JavaScript framework and library developed by Facebook. It’s used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.In React, you develop your applications by creating reusable components that you can think of as independent Lego blocks. These components are individual pieces of a final interface, which, when assembled, form the application’s entire user interface.React’s primary role in an application is to handle the view layer of that application just like the V in a model-view-controller (MVC) pattern by providing the best and most efficient rendering execution. Rather than dealing with the whole user interface as a single unit, React.js encourages developers to separate these complex UIs into individual reusable components that form the building blocks of the whole UI. In doing so, the ReactJS framework combines the speed and efficiency of JavaScript with a more efficient method of manipulating the DOM to render web pages faster and create highly dynamic and responsive web applications.",
             "published_date":"25 April 2022"        
            },
-           "enroll_student":"21,690 learners enrolled",
-           "Syllabus":"syllabus: 11 lessons • 12 projects • 8 quizzes",
+           "enroll_student":"20,690 learners enrolled",
+           "Syllabus":"syllabus: 30 lessons • 15 projects • 30 quizzes",
            "img":"./images/react.png",
-           "complet_time":"Approx. 20 day"
+           "complet_time":"Approx. 2 month"
     }
 ]
