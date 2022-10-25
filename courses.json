@@ -2,37 +2,74 @@
     {
         "id":"1",
         "name": "HTML5",
-        "details":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive."
-
+        "details":{
+            "blog":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive.",
+            "published_date":"25 April 2022"        
+           },
+           "enroll_student":"21,690 learners enrolled",
+           "Syllabus":"syllabus: 9 lessons • 8 projects • 9 quizzes",
+           "img":"./images/html.jpg",
+           "complet_time":"Approx. 7 day"
     },
     {
         "id":"2",
         "name": "CSS",
-        "details":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive."
-
+        "details":{
+            "blog":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive.",
+            "published_date":"25 April 2022"        
+           },
+           "enroll_student":"21,690 learners enrolled",
+           "Syllabus":"syllabus: 11 lessons • 12 projects • 8 quizzes",
+           "img":"./images/css.jpg",
+           "complet_time":"Approx. 20 day"
     },
     {
         "id":"3",
         "name": "BOOTSTRAP",
-       "details":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive."
-
+        "details":{
+            "blog":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive.",
+            "published_date":"25 April 2022"        
+           },
+           "enroll_student":"21,690 learners enrolled",
+           "Syllabus":"syllabus: 11 lessons • 12 projects • 8 quizzes",
+           "img":"./images/bootstrap.jpg",
+           "complet_time":"Approx. 20 day"
     },
     {
         "id":"4",
         "name": "TAILWIEND",
-        "details":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive."
-
+        "details":{
+            "blog":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive.",
+            "published_date":"25 April 2022"        
+           },
+           "enroll_student":"21,690 learners enrolled",
+           "Syllabus":"syllabus: 11 lessons • 12 projects • 8 quizzes",
+           "img":"./images/tailwiend.jpg",
+           "complet_time":"Approx. 20 day"
     },
     {
         "id":"5",
         "name": "JAVASCRIPT",
-       "details":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive."
-
+       "details":{
+        "blog":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive.",
+        "published_date":"25 April 2022"        
+       },
+       "enroll_student":"21,690 learners enrolled",
+       "Syllabus":"syllabus: 11 lessons • 12 projects • 8 quizzes",
+       "img":"./images/js.jpg",
+       "complet_time":"Approx. 20 day"
+    
     },
     {
         "id":"6",
         "name": " REACT",
-       "details":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive."
-
+        "details":{
+            "blog":"JavaScript is a fun and flexible programming language. It’s one of the core technologies of web development and can be used on both the front-end and the back-end. While HTML and CSS are languages that give structure and colors to web pages, JavaScript makes them interactive and come alive.",
+            "published_date":"25 April 2022"        
+           },
+           "enroll_student":"21,690 learners enrolled",
+           "Syllabus":"syllabus: 11 lessons • 12 projects • 8 quizzes",
+           "img":"./images/react.png",
+           "complet_time":"Approx. 20 day"
     }
 ]
